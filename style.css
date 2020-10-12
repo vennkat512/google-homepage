@@ -5,6 +5,10 @@ body {
   text-align: center;
   margin: 0 auto;
 }
+.google-services{
+  text-align:right;
+  margin-bottom: 2rem;
+}
 .logo {
   font-size: 4rem;
   size: 3rem;
