@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper {
+  text-align: center;
+  margin: 0 auto;
+}
+.logo {
+  font-size: 4rem;
+  size: 3rem;
+  /*     border: 1px solid green;   */
+  margin-bottom: 2rem;
+}
+input {
+  margin-bottom: 1rem;
+  /*   border: 3px solid #DFE1E3; */
+  width: 40%;
+  /*   border-radius:20%; */
+  height: 2rem;
+  border-top-right-radius: 27px;
+  border-top-left-radius: 27px;
+  border-bottom-right-radius: 27px;
+  border-bottom-left-radius: 27px;
+}
+ul {
+  list-style-type: none;
+}
+ul li {
+  display: inline-block;
+  margin: 0.2rem;
+  border: 0px solid red;
+}
+ul li a {
+  text-decoration: none;
+}
