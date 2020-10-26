@@ -5,8 +5,8 @@ body {
   text-align: center;
   margin: 0 auto;
 }
-.google-services{
-  text-align:right;
+.google-services {
+  text-align: right;
   margin-bottom: 2rem;
 }
 .logo {
@@ -36,4 +36,7 @@ ul li {
 }
 ul li a {
   text-decoration: none;
+}
+.footer {
+  font-size: small;
 }
